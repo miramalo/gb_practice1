@@ -19,3 +19,7 @@
 >**git checkout 1234** - transition between commits
 
 >**git diff** - show differences in our file
+
+>**git branch** - display our branches
+
+>**git branch name** - create new branch
