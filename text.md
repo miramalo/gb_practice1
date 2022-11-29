@@ -15,6 +15,7 @@
 >- -a (let us avoid repeating command add)
 
 >**git log** - get information about commits
+>- --graph (show git tree)
 
 >**git checkout 1234** - transition between commits
 
