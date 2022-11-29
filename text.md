@@ -34,3 +34,5 @@
 >**git status** - show file status in work directory
 
 >**git clean** - remove garbage from work directory
+
+>**git show \<hash\>** - view list of changes included in the commit
