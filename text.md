@@ -27,3 +27,5 @@
 >**git merge** - combine two branches
 
 >**git checkout -b name** - create new branch and get inside it
+
+>**git clean** - remove garbage from work directory
