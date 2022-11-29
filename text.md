@@ -28,3 +28,7 @@
 
 >**git checkout -b name** - create new branch and get inside it
 
+yuhmiuji
+ygntuhnmki
+yungmiluj
+ygnmhliji
