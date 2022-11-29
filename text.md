@@ -1,4 +1,4 @@
-# Instructions for GitGub
+# Instructions for Git
 
 >**git config user.name** - initialize username
 
