@@ -21,6 +21,8 @@
 >**git diff** - show differences in our file
 
 >**git branch** - display our branches
+>- -d \<branch_name\> (delete existing branch)
+>- -D \<branch_name\> (force delete)
 
 >**git branch name** - create new branch
 
