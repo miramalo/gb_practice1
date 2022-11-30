@@ -46,7 +46,7 @@
 ![GitHub Logo](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png)
 # *How to make a pull request*
 
-- *Switch to the branch that you want to create a pull request for. For more information, see "Switching between branches."*
+- *Switch to the branch that you want to create a pull request for.*
 
 - *Click Create Pull Request. GitHub Desktop will open your default browser to take you to GitHub.*
 
