@@ -36,3 +36,9 @@
 >**git clean** - remove garbage from work directory
 
 >**git show \<hash\>** - view list of changes included in the commit
+
+>**git clone** - create a copy of an existing Git repository
+
+>**git push** - move a local branch to another repository
+
+>**git pull** - download a branch from a remote repository
