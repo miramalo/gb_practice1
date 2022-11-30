@@ -42,3 +42,16 @@
 >**git push** - move a local branch to another repository
 
 >**git pull** - download a branch from a remote repository
+
+![GitHub Logo](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png)
+# *How to make a pull request*
+
+- *Switch to the branch that you want to create a pull request for. For more information, see "Switching between branches."*
+
+- *Click Create Pull Request. GitHub Desktop will open your default browser to take you to GitHub.*
+
+- *On GitHub, confirm that the branch in the base: drop-down menu is the branch where you want to merge your changes. Confirm that the branch in the compare: drop-down menu is the topic branch where you made your changes.*
+
+- *Type a title and description for your pull request.*
+
+- *To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull Request, then click Draft Pull Request.*
